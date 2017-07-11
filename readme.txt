@@ -1,3 +1,8 @@
+Requirements:
+Java 8
+Maven
+
+Commands to run:
 mvn install
 cd rest/
 mvn clean spring-boot:run
